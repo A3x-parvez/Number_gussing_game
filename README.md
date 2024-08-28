@@ -25,8 +25,8 @@ A simple number guessing game written in Python. The program randomly selects a 
    python number_guessing_game.py
 
 # Example 💡
-'''bash
 
+  '''bash
 ----------------------------------------------------------------
 Guess the number : 50
 Higher number Please.
