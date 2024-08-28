@@ -19,7 +19,7 @@ A simple number guessing game written in Python. The program randomly selects a 
 
 1. Clone the repository or download the Python script.
 
-```bash
+   ```bash
    git clone https://github.com/yourusername/snake-water-gun-game.git
 
 2. Open a terminal or command prompt.
@@ -29,8 +29,7 @@ A simple number guessing game written in Python. The program randomly selects a 
    python number_guessing_game.py
 
 # Example 💡
-
-```bash    ----------------------------------------------------------------
+   ----------------------------------------------------------------
 Guess the number : 50
 Higher number Please.
 Guess the number : 75
