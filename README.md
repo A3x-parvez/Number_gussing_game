@@ -26,9 +26,9 @@ A simple number guessing game written in Python. The program randomly selects a 
 3. Run the script using Python:
 
    ```bash
-   python number_guessing_game.py
+   main.py
 
- # Example 💡
+ ## Example 💡
 ```bash   ----------------------------------------------------------------
 Guess the number : 50
 Higher number Please.
